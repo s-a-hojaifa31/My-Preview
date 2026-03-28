@@ -1,30 +1,34 @@
-# Smart Home Automation System
+<h1 align="center">Hi 👋, I'm Md. Sifat Al Hojaifa</h1>
+<h3 align="center">IoT & Robotics Engineering Student | Graphics Designer</h3>
 
-## Overview
-This project is an IoT-based smart home automation system that allows users to control home appliances remotely and monitor environmental conditions.
+---
 
-## Features
-- Remote control of devices
-- Temperature monitoring
-- Smart lighting system
-- Automation support
+## 🚀 About Me
+- 🎓 Studying IoT & Robotics Engineering  
+- 🎨 Passionate Graphics Designer  
+- ⚡ Interested in Embedded Systems & Automation  
+- 💡 Love building smart and real-world projects  
 
-## Components Used
-- Arduino / ESP32
-- Temperature Sensor
-- Relay Module
-- WiFi Module
+---
 
-## Working Principle
-The system collects data from sensors and sends it to a controller (ESP32/Arduino), which processes the data and controls home appliances accordingly.
+## 🛠️ Skills
+- 💻 Programming: C, C++, Python  
+- 🔌 Embedded Systems: Arduino, ESP32  
+- 🌐 IoT: Sensors, Automation  
+- 🎨 Design: Adobe Photoshop, Illustrator  
 
-## Project Preview
-(Add images here later)
+---
 
-## Future Improvements
-- Mobile App Integration
-- Voice Control (Google Assistant / Alexa)
-- Cloud Dashboard
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-a-hojaifa31&show_icons=true&theme=tokyonight" />
+</p>
 
-## Contact
-- Email: 2301021@uftb.ac.bd
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-hojaifa31&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: 2301021@uftb.ac.bd
